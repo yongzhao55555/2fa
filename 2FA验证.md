@@ -1,4 +1,5 @@
 1.手机安装接验证码软件（安卓与苹果不同）
+
 安卓：authing令牌
 苹果：Authenticator
 
